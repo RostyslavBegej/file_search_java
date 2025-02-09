@@ -49,10 +49,6 @@ Enter the creation date (yyyy-MM-dd): 2025-02-09
 File created on 2025-02-09: *.txt
 ```
 
-## Requirements
-
-- Java 8 or later
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
