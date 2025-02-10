@@ -2,7 +2,7 @@
 
 ## Overview
 
-File Search Java is a simple Java application designed to search for files within a specified directory based on a given file name or pattern. This tool is useful for quickly locating files in a directory structure without manually browsing through folders. 
+File Search Java is a simple Java application designed to search for files within a specified directory based on a given file name or pattern. This tool is useful for quickly locating files in a directory structure without manually browsing through folders.
 
 ## Features
 
